@@ -1,5 +1,7 @@
 # 💬ChatCommunity
 AI Agent empower public participation in community renewal
+
+GPTs Verson: https://chat.openai.com/g/g-ELtCkucjQ-chatcommunity
 # How to play it?
 1. Download the .py file and open it in VScode.
 2. Set your OpenAPI key in the environment
