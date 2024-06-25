@@ -2,6 +2,7 @@
 AI Agent empower public participation in community renewal
 
 GPTs Verson: https://chat.openai.com/g/g-ELtCkucjQ-chatcommunity
+Baidu Version：https://pieupi.smartapps.baidu.com/?_swebScene=3611000000000000
 # How to play it?
 1. Download the .py file and open it in VScode.
 2. Set your OpenAPI key in the environment
