@@ -7,9 +7,8 @@ Baidu Version：https://pieupi.smartapps.baidu.com/?_swebScene=3611000000000000
 1. Download the .py file and open it in VScode.
 2. Set your OpenAPI key in the environment
 3. Use UI to conmmunicate with ChatCommunity
-# Package list
-![20240419_212325@2x](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/b5e7da2a-4cb5-42a5-9a9a-cc248dd9026e)
+# Code Test
+![image](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/16df0e15-40cb-49d4-b779-54a1b95ab19b)
+
 # UI Interface
-![20240419_212312@2x](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/c167abdd-39ea-4092-baf6-7df3512e1c0b)
-# Structured output (JSON)
-![20240419_212254@2x](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/2ffa697f-ee3c-4e21-9d4b-61322c453434)
+![image](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/f19e2839-2c18-48c9-92d4-388c874fd794)
