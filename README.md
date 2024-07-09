@@ -11,4 +11,5 @@ Baidu Version：https://pieupi.smartapps.baidu.com/?_swebScene=3611000000000000
 ![image](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/16df0e15-40cb-49d4-b779-54a1b95ab19b)
 
 # UI Interface
-![image](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/f19e2839-2c18-48c9-92d4-388c874fd794)
+![image](https://github.com/Fuuuuuji/-ChatCommunity/assets/165608722/ad4b4568-7f8b-4ae2-b895-93eee0bc7cb7)
+
